@@ -25,7 +25,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "bootstrap": "^4.5.0",
+    "bootstrap": "^4.5.2",
     "node-sass": "^4.14.1"
   }
 }
